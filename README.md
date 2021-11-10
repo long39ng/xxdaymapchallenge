@@ -1,0 +1,1 @@
+![Air pollution in Germany 2001-2020. Map + beeswarm plot. Kriging interpolation using NO₂ measurements from background monitoring stations. Data retrieved via the Umweltbundesamt Air Data API.](day10-de-no2.gif)
